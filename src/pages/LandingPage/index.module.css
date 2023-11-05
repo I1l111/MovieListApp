@@ -1,0 +1,17 @@
+.MainContainer {
+  width: 100vw;
+  height: 100vh;
+  background-color: var(--pale-beige);
+  padding: 1em;
+}
+
+.PageHeaderContainer {
+  width: 100%;
+  height: 3em;
+  border-bottom: 2px solid var(--nature-khaki);
+}
+
+.LogoContainer {
+  width: 3em;
+  height: 100%;
+}
